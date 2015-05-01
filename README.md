@@ -4,6 +4,13 @@ Sprite control plugin for jQuery &amp; GSAP
 Demo: http://jsbin.com/quvuzo/6/edit?html,js,output
 
 Usage:
+
+Include dependancies:
+```
+<script src="//code.jquery.com/jquery-2.1.1.min.js"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/gsap/1.16.1/TweenMax.min.js"></script>
+```
+Init the plugin and start controlling it:
 ```
 var mark = $(".mark").sprite({
   frameWidth: 24, 
