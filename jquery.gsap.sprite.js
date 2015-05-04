@@ -1,6 +1,6 @@
 /*
  *  jquery.gsap-sprite - v0.1
- *  A jump-start for jQuery plugins development.
+ *  A sprite control plugin for jQuery & GSAP
  *  Usage: https://github.com/agrothe/jquery.gsap.sprite
  *  Demo: http://jsbin.com/quvuzo/6/edit?html,js,output
  *
